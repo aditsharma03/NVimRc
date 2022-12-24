@@ -9,3 +9,4 @@
 - LSP-zero for your favourite Language Servers
 
 Also contains some other settings like numbers, relativenumbers, scrolloff, etc.
+## p.s: Please clone packer before using this configuration.
