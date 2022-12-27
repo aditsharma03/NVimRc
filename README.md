@@ -9,4 +9,9 @@
 - LSP-zero for your favourite Language Servers
 
 Also contains some other settings like numbers, relativenumbers, scrolloff, etc.
-## p.s: Please clone packer before using this configuration.
+### p.s: Please clone packer before using this configuration.
+
+## Installation
+1. Download the zip file.
+2. Extract to ~/.config/nvim/ 
+3. Ensure packer installation.
